@@ -1,0 +1,13 @@
+{
+  "liveSassCompile.settings.showOutputWindowOn": "Trace",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "scss.format.spaceAroundSelectorSeparator": false,
+  "less.format.spaceAroundSelectorSeparator": false,
+  "css.format.spaceAroundSelectorSeparator": false
+}
